@@ -1,4 +1,5 @@
-Sales Dashboard in Excel
+Sales Dashboard in Excel.
+
 This repository contains an interactive Sales Dashboard created in Excel. The dashboard displays sales data based on different years and locations. The project includes data cleaning, manipulation, and visualizations to provide insights into sales trends and performance.
 
 Project Description
